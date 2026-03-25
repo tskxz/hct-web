@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const Header = () => {
   return (
@@ -6,8 +7,10 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         E-portefólio HCT
       </Link>
+      <Image src="/assets/logotipo-istec.png" alt="logotipo-istec" height={400} width={400}></Image>
     </h2>
   );
+
 };
 
 export default Header;
