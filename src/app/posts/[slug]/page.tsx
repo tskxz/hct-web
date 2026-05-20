@@ -17,6 +17,7 @@ export default async function Post(props: Params) {
   }
 
   const content = await markdownToHtml(post.content || "");
+  const isSerendipidadePost = params.slug === "serep";
 
   return (
     <main>
@@ -30,6 +31,38 @@ export default async function Post(props: Params) {
             author={post.author}
           />
           <PostBody content={content} />
+          {isSerendipidadePost && (
+            <div className="max-w-2xl mx-auto mb-8 px-4 md:px-0">
+              <a
+                href="/assets/blog/dynamic-routing/Artigo Serendpidade.pdf"
+                download="Artigo Serendpidade.pdf"
+                className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-4 py-2.5 rounded-lg shadow-sm transition-colors text-sm"
+              >
+               
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={2}
+                  stroke="currentColor"
+                  className="w-5 h-5"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z"
+                  />
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M9 17h6m-6-4h6m-6-4h3"
+                  />
+                </svg>
+                Descarregar PDF do Mini-Artigo
+              </a>
+            </div>
+          )}
+
         </article>
       </Container>
     </main>
