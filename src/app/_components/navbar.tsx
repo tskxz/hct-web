@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -9,11 +10,12 @@ export function Navbar() {
   return (
     <nav className="border-b border-neutral-200 dark:border-slate-800 bg-white dark:bg-slate-900 sticky top-0 z-50 transition-colors">
       <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
-        
-
-        <Link href="/" className="font-bold hover:underline text-lg text-black dark:text-white">
-          E-portefólio HCT
-        </Link>
+        <div className="flex items-center space-x-3">
+          <Image src="/assets/logotipo-istec.png" alt="logotipo-istec" height={200} width={200} />
+          <Link href="/" className="font-bold hover:underline text-lg text-black dark:text-white">
+            E-portefólio HCT
+          </Link>
+        </div>
 
 
         <div className="flex items-center space-x-6">
@@ -38,11 +40,11 @@ export function Navbar() {
               <div className="absolute right-0 z-10 mt-2 w-48 origin-top-right rounded-md bg-white dark:bg-slate-800 shadow-lg ring-1 ring-black ring-opacity-5 dark:ring-slate-700 focus:outline-none">
                 <div className="py-1">
                   <Link
-                    href="#cenario"
+                    href="/aulas_autodirigidas"
                     className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
                     onClick={() => setIsOpen(false)}
                   >
-                    Cenário
+                    Atividades das aulas
                   </Link>
                   <Link
                     href="#mini-artigo"
