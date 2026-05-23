@@ -1,18 +1,26 @@
 ---
-title: "Diferença entre Ciência, Técnica e Tecnologia "
-excerpt: "Uma breve introdução sobre como ciência, técnica e tecnologia se relacionam e se complementam na prática e no conhecimento humano."
-coverImage: "/assets/blog/hello-world/infografia.png"
-date: "2026-03-23T10:00:00.000Z"
+title: "Infografia das correntes filosóficas sobre o pensamento científico"
+excerpt: "Infografia das correntes filosóficas que influenciaram a ciência: da antiguidade até a atualidade"
+coverImage: "/assets/blog/preview/timeline.png"
+date: "2026-04-13T05:35:07.322Z"
 author:
   name: Tanjil Shahid Khan
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/preview/cover.jpg"
 ---
 
-## Ciência, Técnica e Tecnologia (João Caraça)
-Ciência: É definida como o domínio do "saber-porquê". Foca-se na organização do conhecimento teórico e na compreensão das leis que regem a natureza.  
 
-Técnica: Refere-se ao "saber-fazer". É o conjunto de perícias, práticas e saberes empíricos acumulados para resolver problemas concretos e realizar tarefas.  
 
-Tecnologia: Surge da fusão entre ciência e técnica. É o saber-fazer informado pelo saber-porquê, onde a investigação científica é aplicada de forma sistemática à produção e à intervenção na realidade.  
+##  Correntes Filosóficas da Teoria do Conhecimento
+Racionalismo: O conhecimento tem origem na razão e em ideias inatas (Ex.: Descartes).  
+
+Empirismo: O conhecimento deriva exclusivamente da experiência sensorial (Ex.: John Locke).  
+
+Criticismo: Síntese que defende que o conhecimento exige tanto a experiência como as estruturas da mente (Ex.: Immanuel Kant).  
+
+Positivismo: Defende que apenas o conhecimento científico factual e verificável é válido (Ex.: Auguste Comte).  
+
+Construtivismo: O conhecimento é construído ativamente pelo sujeito na sua interação com o meio (Ex.: Jean Piaget).  
+
+Ceticismo: Questiona a possibilidade de se atingir uma verdade absoluta ou o conhecimento certo (Ex.: Pirro de Élis).  
