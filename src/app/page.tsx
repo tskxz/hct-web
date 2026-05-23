@@ -9,7 +9,8 @@ export default function Index() {
 
   const heroPost = allPosts[0];
 
-  const morePosts = allPosts.slice(1);
+  // Mostrar apenas os proximos 2 posts, para não ficar muito longo
+  const morePosts = allPosts.slice(1, 3);
 
   return (
     <main>

@@ -18,6 +18,7 @@ export default async function Post(props: Params) {
 
   const content = await markdownToHtml(post.content || "");
   const isSerendipidadePost = params.slug === "serep";
+  const isSerendipidadeCienciaPost = params.slug === "serendipidade-em-ciencia";
 
   return (
     <main>
@@ -31,14 +32,21 @@ export default async function Post(props: Params) {
             author={post.author}
           />
           <PostBody content={content} />
-          {isSerendipidadePost && (
+          {(isSerendipidadePost || isSerendipidadeCienciaPost) && (
             <div className="max-w-2xl mx-auto mb-8 px-4 md:px-0">
               <a
-                href="/assets/blog/dynamic-routing/Artigo Serendpidade.pdf"
-                download="Artigo Serendpidade.pdf"
+                href={
+                  isSerendipidadePost
+                    ? "/assets/blog/dynamic-routing/Artigo Serendpidade.pdf"
+                    : "/assets/blog/serep/SERENDIPIDADE EM CIENCA.pdf"
+                }
+                download={
+                  isSerendipidadePost
+                    ? "Artigo Serendpidade.pdf"
+                    : "SERENDIPIDADE EM CIENCA.pdf"
+                }
                 className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold px-4 py-2.5 rounded-lg shadow-sm transition-colors text-sm"
               >
-               
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -58,7 +66,9 @@ export default async function Post(props: Params) {
                     d="M9 17h6m-6-4h6m-6-4h3"
                   />
                 </svg>
-                Descarregar PDF do Mini-Artigo
+                {isSerendipidadePost
+                  ? "Descarregar PDF do Mini-Artigo"
+                  : "Descarregar PDF"}
               </a>
             </div>
           )}
