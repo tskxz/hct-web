@@ -31,6 +31,10 @@ export default async function Post(props: Params) {
       href: "/assets/blog/digitaleuropa/Moldando o Futuro Digitalda Europa.pdf",
       filename: "Moldando o Futuro Digitalda Europa.pdf",
     },
+    "industria-sustentavel": {
+      href: "/assets/blog/sustentavel/Texto apoio aos estudantes_ISD.pdf",
+      filename: "Texto apoio aos estudantes_ISD.pdf",
+    },
   };
 
   const hasPdf = pdfConfig[params.slug];
