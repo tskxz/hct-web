@@ -4,7 +4,7 @@ excerpt: "O Método científico e o conceito de paradigma"
 coverImage: "/assets/blog/paradigma-cientifico/metodocientifico.png"
 date: "2026-03-16T05:35:07.322Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"

@@ -4,7 +4,7 @@ excerpt: "Texto de apoio sobre Os três paradigmas científicos Ciência antiga,
 coverImage: ""
 date: "2026-03-16T05:35:07.322Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"

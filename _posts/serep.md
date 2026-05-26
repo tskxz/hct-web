@@ -4,7 +4,7 @@ excerpt: "Este mini-artigo explora a  serendipidade e a inovação, analisando c
 coverImage: ""
 date: "2026-05-20T10:00:00.000Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/serep.jpg"

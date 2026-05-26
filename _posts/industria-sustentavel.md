@@ -4,7 +4,7 @@ excerpt: "A crescente concentração de dióxido de carbono (CO₂) na atmosfera
 coverImage: "/assets/blog/sustentavel/sustentabilidade.png"
 date: "2026-05-18T05:35:07.322Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/digitaleuropa/regulacaoeuropeia.png"
