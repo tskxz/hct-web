@@ -41,12 +41,24 @@ export default function NoticiasPage() {
                 </p>
               )}
 
-              {noticia.reference && (
-                <div className="mt-4 pt-4 border-t border-neutral-200 dark:border-slate-700">
-                  <p className="text-sm text-gray-600 dark:text-slate-400 break-words">
-                    <span className="font-medium">Referência:</span>{" "}
-                    {noticia.reference}
-                  </p>
+              {(noticia.reference || noticia.link) && (
+                <div className="mt-4 pt-4 border-t border-neutral-200 dark:border-slate-700 space-y-2">
+                  {noticia.reference && (
+                    <p className="text-sm text-gray-600 dark:text-slate-400 break-words">
+                      <span className="font-medium">Referência:</span>{" "}
+                      {noticia.reference}
+                    </p>
+                  )}
+                  {noticia.link && (
+                    <a
+                      href={noticia.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-block text-sm font-medium text-blue-600 dark:text-blue-400 hover:underline"
+                    >
+                      Ver notícia →
+                    </a>
+                  )}
                 </div>
               )}
             </article>
