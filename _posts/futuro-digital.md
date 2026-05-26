@@ -4,7 +4,7 @@ excerpt: "Moldando o Futuro Digital da Europa - Infografia  sobre os temas"
 coverImage: "/assets/blog/digitaleuropa/regulacaoeuropeia.png"
 date: "2026-05-11T05:35:07.322Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/digitaleuropa/regulacaoeuropeia.png"

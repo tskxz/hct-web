@@ -4,7 +4,7 @@ excerpt: "Uma breve introdução sobre como ciência, técnica e tecnologia se r
 coverImage: "/assets/blog/hello-world/infografia.png"
 date: "2026-03-23T10:00:00.000Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"

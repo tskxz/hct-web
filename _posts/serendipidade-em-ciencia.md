@@ -4,7 +4,7 @@ excerpt: "O conceito de serendipidade foi introduzido pelo escritor e político 
 coverImage: "/assets/blog/serep/serep.png"
 date: "2026-04-20T05:35:07.322Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/serep/serep.png"

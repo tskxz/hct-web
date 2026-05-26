@@ -35,6 +35,11 @@ export default async function Post(props: Params) {
       href: "/assets/blog/sustentavel/Texto apoio aos estudantes_ISD.pdf",
       filename: "Texto apoio aos estudantes_ISD.pdf",
     },
+
+    "paradigmas-ciencia": {
+      href: "/assets/blog/paradigmas-ciencia/Os Três Paradigmas da Ciência.pdf",
+      filename: "Os Três Paradigmas da Ciência.pdf",
+    },
   };
 
   const hasPdf = pdfConfig[params.slug];

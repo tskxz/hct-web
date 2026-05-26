@@ -4,7 +4,7 @@ excerpt: "Infografia das correntes filosóficas que influenciaram a ciência: da
 coverImage: "/assets/blog/preview/timeline.png"
 date: "2020-04-13T05:35:07.322Z"
 author:
-  name: Tanjil Shahid Khan
+  name: Tanjil Shahid Khan Nº2022189
   picture: "/assets/blog/authors/tanjil.jpg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
