@@ -98,6 +98,13 @@ export function Navbar() {
                     Mini-Artigo
                   </Link>
                   <Link
+                    href="/cenarios"
+                    className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
+                    onClick={() => setOpenDropdown(null)}
+                  >
+                    Cenários
+                  </Link>
+                  <Link
                     href="/noticias"
                     className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
                     onClick={() => setOpenDropdown(null)}
