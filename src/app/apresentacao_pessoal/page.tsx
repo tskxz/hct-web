@@ -19,7 +19,7 @@ export default function ApresentacaoPessoal() {
               Olá a todos, sou <strong>Tanjil Shahid Khan</strong>. Atualmente frequento a Licenciatura em Engenharia Informática no ISTEC-Porto. Anteriormente, concluí o Curso Técnico e Superior Profissional de Desenvolvimento de Software.
             </p>
             <p>
-              Tenho 21 anos e gosto de viajar, caminhar e manter-me ativo com exercício físico. Sou natural do Porto, em Portugal.
+              Tenho 21 anos e gosto de viajar, caminhar e manter-me ativo com exercício físico. Sou do Porto, em Portugal.
             </p>
             <p>
               Sou apaixonado por programação e muito entusiasmado por aprender novas tecnologias. Tenho um interesse especial em desenvolver projetos de software e adoro o processo de criar e otimizar sistemas.

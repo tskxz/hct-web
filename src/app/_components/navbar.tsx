@@ -56,6 +56,13 @@ export function Navbar() {
                     Académica e profissional
                   </Link>
                   <Link
+                    href="/apresentacao_competencias_digitais"
+                    className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
+                    onClick={() => setOpenDropdown(null)}
+                  >
+                    Competências Digitais
+                  </Link>
+                  <Link
                     href="/apresentacao_skills"
                     className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
                     onClick={() => setOpenDropdown(null)}
