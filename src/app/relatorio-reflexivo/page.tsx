@@ -40,7 +40,7 @@ Todo este trabalho foi compilado num e-portefólio individual, que serviu como i
 .
 O aspeto mais marcante foi a metodologia de Aprendizagem Baseada em Problemas (PBL). A resolução semanal dos 8 cenários/desafios em grupo permitiu-me ir além da teoria
 . O processo estruturado de identificar problemas, selecionar informação credível e tomar decisões fundamentadas foi crucial para desenvolver o meu raciocínio crítico
-. Lembro-me particularmente do debate sobre os paradigmas de Thomas Kuhn e Karl Popper, que mudou a minha perceção sobre como a ciência evolui através de revoluções e não apenas por acumulação de factos.
+. Lembro-me particularmente do estudo sobre os paradigmas de Thomas Kuhn e Karl Popper, que mudou a minha perceção sobre como a ciência evolui através de revoluções e não apenas por acumulação de factos.
 A elaboração do mini-artigo científico em grupo, focado na divulgação de temas do programa, permitiu-me exercitar o rigor académico e a escrita científica com revisão por pares
 . A mentoria constante da docente e o feedback entre colegas durante as aulas foram fundamentais para consolidar estes conhecimentos
 .
