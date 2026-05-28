@@ -1,13 +1,8 @@
 ---
 title: "Cenário Nº6"
 excerpt: >
-  A IA na Indústria 5.0 contribui para a redução do desperdício de matérias-primas
-  raras através da análise de dados em tempo real e da utilização de sistemas
-  preditivos para otimizar o consumo de recursos. Tecnologias como gémeos digitais
-  permitem simular processos industriais antes da produção real, reduzindo erros
-  e perdas. Além disso, algoritmos de IA podem melhorar a triagem de materiais na
-  reciclagem, aumentando a eficiência da economia circular. Desta forma, a
-  produção torna-se mais sustentável, eficiente e inteligente.
+  A "EcoLogística" é uma fábrica de componentes eletrónicos que opera atualmente sob o modelo da Indústria 4.0. Embora a produção seja altamente automatizada e eficiente, a empresa enfrenta três grandes problemas: elevado desperdício de matérias-primas raras, burnout dos operadores que apenas vigiam máquinas em tarefas monótonas e uma baixa capacidade de adaptação quando ocorrem falhas na cadeia de abastecimento.
+    O desafio para os estudantes é propor a transição para a Indústria 5.0, utilizando a Inteligência Artificial (IA) como motor de mudança, com base nos autores do livro “Indústria 5.0, Pessoas, Tecnologia e Sustentabilidade”
 problema: "/assets/blog/cenarios/cenario6/Cenário 6.docx"
 resposta: "/assets/blog/cenarios/cenario6/resposta-cenario6.rar"
 ---
