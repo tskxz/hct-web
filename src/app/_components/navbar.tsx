@@ -118,6 +118,9 @@ export function Navbar() {
           <Link href="/relatorio-reflexivo" className="text-sm font-medium text-gray-600 dark:text-slate-400 hover:text-black dark:hover:text-white">
             Relatório reflexivo
           </Link>
+          <Link href="/contacto" className="text-sm font-medium text-gray-600 dark:text-slate-400 hover:text-black dark:hover:text-white">
+            Contacto
+          </Link>
           
         </div>
 
