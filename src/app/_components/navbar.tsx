@@ -23,6 +23,10 @@ export function Navbar() {
             Início
           </Link>
 
+          <Link href="/relatorio-reflexivo" className="text-sm font-medium text-gray-600 dark:text-slate-400 hover:text-black dark:hover:text-white">
+            Relatório reflexivo
+          </Link>
+
           <div className="relative inline-block text-left">
             <button
               onClick={() => setIsOpen(!isOpen)}
