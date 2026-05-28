@@ -1,5 +1,5 @@
 ---
-title: "Cenario Nº6"
+title: "Cenário Nº6"
 excerpt: >
   A IA na Indústria 5.0 contribui para a redução do desperdício de matérias-primas
   raras através da análise de dados em tempo real e da utilização de sistemas

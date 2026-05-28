@@ -1,5 +1,5 @@
 ---
-title: "Cenario Nº3"
+title: "Cenário Nº3"
 excerpt: >
   a evolução tecnológica da humanidade pode ser dividida em quatro grandes
   revoluções industriais, cada uma marcada por transformações profundas nos

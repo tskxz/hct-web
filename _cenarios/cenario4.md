@@ -1,5 +1,5 @@
 ---
-title: "Cenario Nº4"
+title: "Cenário Nº4"
 excerpt: >
   Correntes filosóficas e pensamento científico. Racionalismo, Empirismo,
   Positivismo, Iluminismo, Idealismo, Falsificacionismo (Karl Popper), Paradigmas

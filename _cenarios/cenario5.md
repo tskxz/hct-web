@@ -1,5 +1,5 @@
 ---
-title: "Cenario Nº5"
+title: "Cenário Nº5"
 excerpt: >
   Distinguir situações em que resultados inesperados constituem problemas de
   casos em que podem originar novas descobertas no contexto da engenharia

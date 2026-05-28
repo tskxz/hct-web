@@ -1,5 +1,5 @@
 ---
-title: "Cenario Nº8"
+title: "Cenário Nº8"
 excerpt: >
   A administração da EcoMetal decidiu então criar uma equipa multidisciplinar para
   estudar soluções tecnológicas inovadoras que permitam transformar a fábrica

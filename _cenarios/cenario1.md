@@ -1,5 +1,5 @@
 ---
-title: "Cenario Nº1"
+title: "Cenário Nº1"
 excerpt: >
   O problema central reside na afirmação do Presidente da Câmara de que a
   tecnologia é objetiva e neutra. Esta visão ignora que a implementação de
