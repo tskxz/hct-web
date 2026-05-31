@@ -17,8 +17,6 @@ Este relatório pretende documentar e refletir sobre o período de aprendizagem,
                 <li>Utilizar ferramentas de Inteligência Artificial de forma ética, crítica e transparente, integrando a responsabilidade ética no uso da tecnologia e o compromisso com a sustentabilidade.</li>
                 <li>Integrar a fundamentação teórica e a revisão do estado da arte em projetos de Engenharia Informática, estabelecendo ligações sólidas entre a História da Ciência/Tecnologia e os desafios atuais da informática.</li>
                 <li>Elaborar textos científicos com revisão por pares (como mini-artigos) e participar ativamente em debates académicos fundamentados, revelando espírito crítico, reflexivo e autonomia intelectual.</li>
-                <li>Apresentar propostas de comunicações e posters em congressos nacionais e internacionais sobre temáticas de desenvolvimento tecnocientífico sustentável, inteligente e humanista, contribuindo para uma sociedade mais inclusiva e capacitante.</li>
-                <li>Evidenciar competências para identificar problemas, selecionar informação credível e propor soluções fundamentadas, antecipando as consequências éticas e sociais das inovações técnicas.</li>
             </ul>
             <h2 className="text-2xl font-semibold mt-10 mb-6">Método de ensino</h2>
             <p className="text-base leading-relaxed">
@@ -53,6 +51,7 @@ Em conclusão, considero ter atingido plenamente os objetivos de aprendizagem. M
 . Através das estratégias de Aprendizagem Baseada em Problemas (PBL) e da resolução dos 8 cenários/situações-problema, consegui aprimorar significativamente o meu pensamento crítico, seguindo etapas estruturadas de identificação de problemas, seleção de informação e tomada de decisão fundamentada
 .
 O método de ensino, baseado no trabalho colaborativo e no feedback constante entre pares, ajudou-me a desenvolver competências de análise e resolução de problemas de forma autónoma e criativa.
+<br /> <br />
 No geral, considero que o meu desempenho foi Suficiente, uma vez que alcancei os objetivos propostos, demonstrando compromisso com a cidadania digital e a sustentabilidade
 . No entanto, acredito que poderia melhorar ainda mais ao aprofundar a minha análise crítica sobre os impactos sociais da IA e da automação, bem como ao explorar mais a fundo as diferentes perspetivas regulatórias internacionais
             </p>            <div className="text-center mt-16">
