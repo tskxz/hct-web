@@ -17,8 +17,6 @@ Este relatório pretende documentar e refletir sobre o período de aprendizagem,
                 <li>Utilizar ferramentas de Inteligência Artificial de forma ética, crítica e transparente, integrando a responsabilidade ética no uso da tecnologia e o compromisso com a sustentabilidade.</li>
                 <li>Integrar a fundamentação teórica e a revisão do estado da arte em projetos de Engenharia Informática, estabelecendo ligações sólidas entre a História da Ciência/Tecnologia e os desafios atuais da informática.</li>
                 <li>Elaborar textos científicos com revisão por pares (como mini-artigos) e participar ativamente em debates académicos fundamentados, revelando espírito crítico, reflexivo e autonomia intelectual.</li>
-                <li>Apresentar propostas de comunicações e posters em congressos nacionais e internacionais sobre temáticas de desenvolvimento tecnocientífico sustentável, inteligente e humanista, contribuindo para uma sociedade mais inclusiva e capacitante.</li>
-                <li>Evidenciar competências para identificar problemas, selecionar informação credível e propor soluções fundamentadas, antecipando as consequências éticas e sociais das inovações técnicas.</li>
             </ul>
             <h2 className="text-2xl font-semibold mt-10 mb-6">Método de ensino</h2>
             <p className="text-base leading-relaxed">
@@ -41,7 +39,7 @@ Todo este trabalho foi compilado num e-portefólio individual, que serviu como i
 O aspeto mais marcante foi a metodologia de Aprendizagem Baseada em Problemas (PBL). A resolução semanal dos 8 cenários/desafios em grupo permitiu-me ir além da teoria
 . O processo estruturado de identificar problemas, selecionar informação credível e tomar decisões fundamentadas foi crucial para desenvolver o meu raciocínio crítico
 . Lembro-me particularmente do estudo sobre os paradigmas de Thomas Kuhn e Karl Popper, que mudou a minha perceção sobre como a ciência evolui através de revoluções e não apenas por acumulação de factos.
-A elaboração do mini-artigo científico em grupo, focado na divulgação de temas do programa, permitiu-me exercitar o rigor académico e a escrita científica com revisão por pares
+A elaboração do mini-artigo científico em grupo, permitiu-me exercitar o rigor académico e a escrita científica com revisão por pares
 . A mentoria constante da docente e o feedback entre colegas durante as aulas foram fundamentais para consolidar estes conhecimentos
 .
 Em conclusão, considero ter atingido plenamente os objetivos de aprendizagem. Mais do que memorizar datas, adquiri uma autonomia intelectual e uma consciência ética sobre o uso da tecnologia que serão vitais na minha carreira
@@ -53,9 +51,12 @@ Em conclusão, considero ter atingido plenamente os objetivos de aprendizagem. M
 . Através das estratégias de Aprendizagem Baseada em Problemas (PBL) e da resolução dos 8 cenários/situações-problema, consegui aprimorar significativamente o meu pensamento crítico, seguindo etapas estruturadas de identificação de problemas, seleção de informação e tomada de decisão fundamentada
 .
 O método de ensino, baseado no trabalho colaborativo e no feedback constante entre pares, ajudou-me a desenvolver competências de análise e resolução de problemas de forma autónoma e criativa.
+<br /> <br />
 No geral, considero que o meu desempenho foi Suficiente, uma vez que alcancei os objetivos propostos, demonstrando compromisso com a cidadania digital e a sustentabilidade
 . No entanto, acredito que poderia melhorar ainda mais ao aprofundar a minha análise crítica sobre os impactos sociais da IA e da automação, bem como ao explorar mais a fundo as diferentes perspetivas regulatórias internacionais
-            </p>
-        </main>
+            </p>            <div className="text-center mt-16">
+                <p className="text-lg font-semibold">Tanjil Shahid Khan</p>
+                <p className="text-base mt-4">31 de maio de 2026</p>
+            </div>        </main>
     )
 }
