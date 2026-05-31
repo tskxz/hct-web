@@ -53,7 +53,7 @@ export function Navbar() {
                     className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
                     onClick={() => setOpenDropdown(null)}
                   >
-                    Académica e profissional
+                   Percurso Académico e Experiência Profissional
                   </Link>
                   <Link
                     href="/apresentacao_competencias_digitais"
@@ -80,7 +80,7 @@ export function Navbar() {
               type="button"
               className="inline-flex items-center gap-x-1.5 rounded-md bg-white dark:bg-slate-800 px-3 py-2 text-sm font-semibold text-gray-900 dark:text-white shadow-sm ring-1 ring-inset ring-gray-300 dark:ring-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700 transition-colors"
             >
-              Trabalhos
+              Evidências de Aprendizagem
               <svg className="-mr-1 h-5 w-5 text-gray-400" viewBox="0 0 20 20" fill="currentColor">
                 <path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" />
               </svg>
