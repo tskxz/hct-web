@@ -53,7 +53,14 @@ export function Navbar() {
                     className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
                     onClick={() => setOpenDropdown(null)}
                   >
-                   Percurso Académico e Experiência Profissional
+                   Percurso Académico
+                  </Link>
+                  <Link
+                    href="/experiencia_profissional"
+                    className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
+                    onClick={() => setOpenDropdown(null)}
+                  >
+                   Experiência Profissional
                   </Link>
                   <Link
                     href="/apresentacao_competencias_digitais"
