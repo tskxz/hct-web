@@ -8,6 +8,6 @@ excerpt: >
   à seguinte questão: Como poderia a Engenharia Informática ajudar esta fábrica a
   reduzir emissões de CO₂ e contribuir para uma indústria sustentável e
   descarbonizada?
-problema: "/assets/blog/cenarios/cenario1/Cenário 8- PARTE PRÁTICA.docx"
-resposta: "/assets/blog/cenarios/cenario1/cenario8-pratica-grupo10-tanjil-ricardo.zip"
+problema: "/assets/blog/cenarios/cenario8/Cenário 8- PARTE PRÁTICA.docx"
+resposta: "/assets/blog/cenarios/cenario8/cenario8-pratica-grupo10-tanjil-ricardo.zip"
 ---
