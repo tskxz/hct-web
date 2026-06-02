@@ -1,5 +1,5 @@
 ---
-title: "Cenário Nº4"
+title: "Cenário 4: O Programa que Quase Nunca Falha"
 excerpt: >
   Um estudante de Engenharia Informática desenvolveu um pequeno programa que ordena listas de números. Ele testou o programa com 10 exemplos diferentes e, em todos, o resultado foi correto.
   Com base nisso, afirma: “O meu programa funciona sempre corretamente.”

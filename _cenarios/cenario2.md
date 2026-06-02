@@ -1,5 +1,5 @@
 ---
-title: "Cenário Nº2"
+title: "Cenário 2: Exposição interativa: Da Ciência Antiga à Tecnociência"
 excerpt: >
     Uma universidade europeia está a organizar uma exposição interativa intitulada “Da Ciência Antiga à Tecnociência”, destinada ao público em geral. A equipa responsável pela exposição pretende criar três espaços temáticos, cada um representando um paradigma científico diferente
     Ciência Antiga

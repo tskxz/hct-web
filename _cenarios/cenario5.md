@@ -1,5 +1,5 @@
 ---
-title: "Cenário Nº5"
+title: "Cenário 5: O Bug que Não Era um Bug"
 excerpt: >
   Imagina que és estudante do 1.º ano e estás a trabalhar num pequeno projeto de programação: um sistema simples de recomendação de músicas.
     Durante os testes, algo estranho acontece:

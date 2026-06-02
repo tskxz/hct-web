@@ -1,5 +1,5 @@
 ---
-title: "Cenário Nº1"
+title: "Cenário 1: Implementação de um sistema de IA numa autarquia"
 excerpt: >
   Uma autarquia portuguesa decide implementar um sistema de Inteligência Artificial para apoiar decisões administrativas, nomeadamente, Priorização automática de pedidos de apoio social; Identificação preditiva de risco de abandono escolar; Otimização da gestão de recursos municipais;  Na apresentação pública do projeto, o Presidente da Câmara afirma:
     “A tecnologia é objetiva e neutra. O algoritmo decide com base em dados e não em opiniões.”

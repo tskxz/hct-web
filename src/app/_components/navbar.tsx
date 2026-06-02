@@ -69,13 +69,6 @@ export function Navbar() {
                   >
                     Competências Digitais
                   </Link>
-                  <Link
-                    href="/apresentacao_skills"
-                    className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
-                    onClick={() => setOpenDropdown(null)}
-                  >
-                    Skills
-                  </Link>
                 </div>
               </div>
             )}
@@ -97,13 +90,6 @@ export function Navbar() {
             {openDropdown === "trabalhos" && (
               <div className="absolute right-0 z-10 mt-2 w-48 origin-top-right rounded-md bg-white dark:bg-slate-800 shadow-lg ring-1 ring-black ring-opacity-5 dark:ring-slate-700 focus:outline-none">
                 <div className="py-1">
-                  <Link
-                    href="/aulas_autodirigidas"
-                    className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"
-                    onClick={() => setOpenDropdown(null)}
-                  >
-                    Aulas Auto-dirigidas
-                  </Link>
                   <Link
                     href="/posts/serep"
                     className="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700"

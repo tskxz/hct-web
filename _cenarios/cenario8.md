@@ -1,5 +1,5 @@
 ---
-title: "Cenário Nº8"
+title: "Cenário 8: EcoMetal: Indústria Sustentável e Descarbonizada"
 excerpt: >
   A administração da EcoMetal decidiu então criar uma equipa multidisciplinar para
   estudar soluções tecnológicas inovadoras que permitam transformar a fábrica

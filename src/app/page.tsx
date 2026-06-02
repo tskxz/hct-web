@@ -1,30 +1,23 @@
 import Container from "@/app/_components/container";
 import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
-import { MoreStories } from "@/app/_components/more-stories";
-import { getAllPosts } from "@/lib/api";
+import { getPostBySlug } from "@/lib/api";
 
 export default function Index() {
-  const allPosts = getAllPosts();
-
-  const heroPost = allPosts[0];
-
-  // Mostrar apenas os proximos 2 posts, para não ficar muito longo
-  const morePosts = allPosts.slice(1, 3);
+  const serepPost = getPostBySlug("serep");
 
   return (
     <main>
       <Container>
         <Intro />
         <HeroPost
-          title={heroPost.title}
+          title={serepPost.title}
           coverImage=""
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
+          date={serepPost.date}
+          author={serepPost.author}
+          slug={serepPost.slug}
+          excerpt={serepPost.excerpt}
         />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
       </Container>
     </main>
   );
